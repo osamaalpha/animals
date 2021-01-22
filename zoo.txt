@@ -1,3 +1,5 @@
 lion
 fox
 wolve
+tiger
+elephant
